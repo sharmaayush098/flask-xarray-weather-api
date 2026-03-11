@@ -1,6 +1,3 @@
-# flask-xarray-weather-api
-
-
 # Flask Xarray Weather API
 
 This project demonstrates how to use Xarray with geospatial coordinates
